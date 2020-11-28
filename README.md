@@ -1,2 +1,2 @@
 # preferred-product
-frankstar product
+frankstar product with DDD design
